@@ -1,0 +1,60 @@
+img{
+    width: 50px;
+    border: 1px solid skyblue;
+    border-radius: 50px;
+}
+.logo{
+    padding: 5px;
+}
+.container{
+    background-color: aqua;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin: 10px;
+    border-radius: 40px;
+}
+.bar{
+    display: inline;
+    margin: 5px;
+    padding: 10px;
+}
+a{
+    padding: 2px 10px;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.text1{
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+    margin-top: 40px;
+    text-shadow: 2px 2px 2px aqua;
+    margin-bottom: 0px;
+}
+h2{
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 0%;
+}
+.content{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 21px;
+    padding-inline: 300px;
+}
+p{
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 10px;
+    text-shadow: 2px 2px 2px white;
+}
+body{
+    background-image: url(1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
